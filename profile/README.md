@@ -1,6 +1,6 @@
-# OpenStack AppStore (Studienprojekt)
+# AppStore für OpenStack Projekte 
 
-Wir entwickeln im Rahmen unseres Studiums einen **AppStore für Lehr- und Übungsumgebungen auf OpenStack**.  
+**AppStore für das einfache Deployment von Lehr- und Übungsumgebungen für Studierende auf OpenStack**.  
 Ziel ist es, dass **Dozierende ohne tiefes Cloud-/OpenStack-Wissen** Anwendungen und komplette Übungsumgebungen bereitstellen können – schnell, wiederholbar und mit klaren Ressourcengrenzen.
 
 ## Worum geht’s?
@@ -12,12 +12,10 @@ Viele Lehrveranstaltungen brauchen heute IT-Umgebungen, die für Studierende zuv
 - Pentesting-Labs in isolierten Netzwerken  
 - Kubernetes-Cluster für Microservices oder KI-Anwendungen  
 
-Unser AppStore soll diese Szenarien als **vorkonfigurierte “Apps”** bereitstellen, die sich per Klick deployen und verwalten lassen.
+Der AppStore stellt **vorkonfigurierte “Apps”/"Templates"** bereit, die sich per Klick deployen und verwalten lassen und das Aufsetzen entsprechender VMs stark vereinfachen.
 
 ## Für wen ist das?
-- **Dozierende:** einfache Bereitstellung und Verwaltung von Kursumgebungen  
-- **Studierende:** verlässlicher Zugriff auf Übungsumgebungen im Kurskontext  
-- **Administratoren:** Support-Möglichkeit, Kontrolle und Ressourcengrenzen (Quotas)
+**Dozierende:** einfache Bereitstellung und Verwaltung von Kursumgebungen  
 
 ## Lokales Setup
 Eine Schritt-für-Schritt-Anleitung zum lokalen Aufsetzen der Entwicklungsumgebung findet sich in der [Setup-Dokumentation](https://github.com/six7-click-n-deploy/deployment#lokales-setup).
